@@ -1,4 +1,6 @@
-# Rain Prediction in Australia
+# Rain Prediction in Australia using KNIME Platform
+
+[![IMAGE ALT TEXT HERE](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)
 
 The aim of this data science project is to predict next-day rain status by training classification models on the target variable `RainTomorrow`. 
 
