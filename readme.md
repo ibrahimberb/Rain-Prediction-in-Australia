@@ -1,6 +1,6 @@
 # Rain Prediction in Australia using KNIME Platform
 
-[![IMAGE ALT TEXT HERE](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)
+<!-- [![IMAGE ALT TEXT HERE](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg) -->
 
 <img src="https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg" alt="drawing" width="400"/>
 
