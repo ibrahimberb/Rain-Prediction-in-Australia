@@ -14,11 +14,15 @@ The dataset can be found by [this](https://www.kaggle.com/jsphyg/weather-dataset
 This project is uploaded for CS 447 Introduction to Data Science course.
 
 ## Files
-* KNIME Workflow: add
-* Jupyter Notebook: add
-* Presentation: add
-* Presentation Video: add
-* Project Report: add
+* [KNIME Workflow](https://github.com/ibrahimberb/Rain-Prediction-in-Australia/blob/main/CS447_Ibrahim_Berber_KNIME.knwf)
+* [Jupyter Notebook](https://github.com/ibrahimberb/Rain-Prediction-in-Australia/blob/main/CS447_Project_Ibrahim_Berber_Visz.ipynb)
+* [Presentation](https://github.com/ibrahimberb/Rain-Prediction-in-Australia/blob/main/CS447_Presentation_Ibrahim_Berber.pdf)
+* [Project Report](https://github.com/ibrahimberb/Rain-Prediction-in-Australia/blob/main/CS447_Project_Report_Ibrahim_Berber.pdf)
+
+## YouTube Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/75e1RjrxSI4/0.jpg)](https://www.youtube.com/watch?v=75e1RjrxSI4)
+
+
 
 
 
