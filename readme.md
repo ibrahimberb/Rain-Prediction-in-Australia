@@ -2,6 +2,7 @@
 
 <!-- [![IMAGE ALT TEXT HERE](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg) -->
 
+
 <img src="https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg" alt="drawing" width="400"/>
 
 The aim of this data science project is to predict next-day rain status by training classification models on the target variable `RainTomorrow`. 
